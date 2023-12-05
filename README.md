@@ -1,4 +1,4 @@
 # ACourseRepo
 "It's a markdown file in this repository"
 "Adding another line"
-"Adding third line"
+"Adding third Line"
